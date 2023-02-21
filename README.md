@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheldon-codeit&show_icons=true&locale=en" alt="sheldon-codeit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheldon-codeit&" alt="sheldon-codeit" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sheldon-CodeIt&theme=dark&border_radius=3.3)](https://git.io/streak-stats)
