@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheldon-codeit&label=Profile%20views&color=0e75b6&style=flat" alt="sheldon-codeit" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on [react-auth](https://github.com/Sheldon-CodeIt/react-auth)
+
+- 🌱 I’m currently learning **Next.js / Unreal Engine**
+
+- 💬 Ask me about **Unity / C#**
 
 - 📫 How to reach me **sheldonchettiar3@gmail.com**
 
