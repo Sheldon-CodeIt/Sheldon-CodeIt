@@ -17,9 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sheldon-chettiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheldon-chettiar" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am.sheldon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am.sheldon" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sheldon_101" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sheldon_101" height="30" width="40" style="background-color: white;" class="bg-white">
-</a>
+<a href="https://www.codechef.com/users/sheldon_101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sheldon_101" height="30" width="40" /></a>
 
 </p>
 
