@@ -1,53 +1,3 @@
-<head>
-  <style>
-    .streak-stats {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-bottom: 20px;
-    }
-
-    .streak-stats h3 {
-      margin-bottom: 10px;
-      font-size: 20px;
-      font-weight: bold;
-      text-align: center;
-    }
-
-    .streak-stats-badge {
-      display: flex;
-      align-items: center;
-      margin-top: 10px;
-    }
-
-    .streak-stats-text {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      margin-left: 20px;
-    }
-
-    .streak-stats-text p {
-      margin: 0;
-      font-size: 16px;
-      line-height: 1.5;
-    }
-
-    .streak-stats-text p strong {
-      font-weight: bold;
-      color: #0366d6;
-    }
-
-    .streak-stats-badge svg polyline {
-      fill: none;
-      stroke: #555;
-      stroke-width: 3;
-    }
-  </style>
-</head>
-
-<body>
-
 <h1 align="center">Hi 👋, I'm Sheldon Chettiar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -80,16 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheldon-codeit&show_icons=true&locale=en" alt="sheldon-codeit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheldon-codeit&" alt="sheldon-codeit" /></p>
-<div class="streak-stats">
-  <h3>My GitHub streak stats</h3>
-  <span class="streak-stats-badge">
-    <svg height="180" width="500">
-      <polyline points="10,160 35,130 60,160 85,130 110,160 135,130 160,160 185,130 210,160 235,130 260,160 285,130 310,160 335,130 360,160 385,130 410,160 435,130 460,160 485,130" style="fill:none;stroke:#555;stroke-width:3" />
-    </svg>
-    <div class="streak-stats-text">
-      <p>Current streak: <strong>0 days</strong></p>
-      <p>Longest streak: <strong>0 days</strong></p>
-    </div>
-  </span>
-</div>
-</body>
+
