@@ -1,5 +1,5 @@
 <div align="center">
-  <div align="center" style=" margin: 40px"><h2>Hi, i am Sheldon Chettiar, an enthusiastic developer 👨‍💻  </h2></div> 
+  <div align="center" style=" margin: 40px"><h2>Hi, I am Sheldon Chettiar, an enthusiastic developer 👨‍💻  </h2></div> 
 </div>  
   
 
