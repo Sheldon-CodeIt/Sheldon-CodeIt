@@ -13,7 +13,7 @@
 - ❓ Happy to discuss Data Science, Machine Learning, MLOps, and related technologies  
   
 
-- ⚡ Fun fact: I'm as comfortable with web dev frameworks as I am with algorithms, ensuring seamless integration of ML into web apps. 💻  
+- ⚡ Fun fact: I'm as comfortable with Django and React as I am with algorithms, ensuring seamless integration of ML into web apps. 💻  
   
 
 <br/>  
