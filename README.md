@@ -1,21 +1,19 @@
 <div align="center">
-  <div align="center" style=" margin: 40px"><h2>Hi, I am Sheldon Chettiar, an enthusiastic developer 👨‍💻  </h2></div> 
+  <div align="center" style="margin: 40px"><h2>Hi, I'm Sheldon Chettiar, a dedicated data enthusiast 📊</h2></div> 
 </div>  
-  
 
 ### 
+
+- 🔭 Currently focused on [ML projects](https://github.com/Sheldon-CodeIt/SEPM) and integrating machine learning features into web applications  
   
 
-- 🔭 I’m currently working on [studytable](https://github.com/Sheldon-CodeIt/studytable)  
+- 🌱 Actively exploring Machine Learning, Deep Learning, and MLOps techniques  
   
 
-- 🌱 I’m currently learning Django and Unreal Engine  
+- ❓ Happy to discuss Data Science, Machine Learning, MLOps, and related technologies  
   
 
-- ❓ Ask me about Game Development and related technologies  
-  
-
-- ⚡ Fun fact: I still miss One Direction🎙️  
+- ⚡ Fun fact: I'm as comfortable with web dev frameworks as I am with algorithms, ensuring seamless integration of ML into web apps. 💻  
   
 
 <br/>  
