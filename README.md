@@ -10,7 +10,7 @@
 - 🌱 Actively exploring Machine Learning, Deep Learning, and MLOps techniques  
   
 
-- ❓ Happy to discuss Data Science, Machine Learning, MLOps, and related technologies  
+- ❓ Happy to discuss Data Science, Analytics and related technologies  
   
 
 - ⚡ Fun fact: I'm as comfortable with Django and React as I am with algorithms, ensuring seamless integration of ML into web apps. 💻  
