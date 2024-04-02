@@ -1,5 +1,5 @@
 <div align="center">
-  <div align="center" style="margin: 40px"><h2>Hi, I'm Sheldon Chettiar, a dedicated ML and Data Science enthusiast 📊</h2></div> 
+  <div align="center" style="margin: 40px"><h2>Hi, I'm Sheldon, ML and Data Science enthusiast 📊</h2></div> 
 </div>  
 
 ### 
