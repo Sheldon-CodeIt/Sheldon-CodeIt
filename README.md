@@ -4,7 +4,7 @@
 
 ### 
 
-- 🔭 Currently focused on [ML projects](https://github.com/Sheldon-CodeIt/SEPM) and integrating machine learning features into web applications  
+- 🔭 Currently focused on [ML projects](https://github.com/Sheldon-CodeIt/phishing-detection-streamlit) and integrating machine learning features into web applications  
   
 
 - 🌱 Actively exploring Machine Learning, Deep Learning, and MLOps techniques  
