@@ -1,24 +1,3 @@
-<div align="center">
-  <div align="center" style="margin: 40px"><h2>Hi, I'm Sheldon, a dedicated ML and Data Science enthusiast 📊</h2></div> 
-</div>  
-
-### 
-
-- 🔭 Currently focused on [ML projects](https://github.com/Sheldon-CodeIt/phishing-detection-streamlit) and integrating machine learning features into web applications  
-  
-
-- 🌱 Actively exploring Machine Learning, Deep Learning, and MLOps techniques  
-  
-
-- ❓ Happy to discuss Data Science, Analytics and related technologies  
-  
-
-- ⚡ Fun fact: I'm as comfortable with Django and React as I am with algorithms, ensuring seamless integration of ML into web apps. 💻  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
 
